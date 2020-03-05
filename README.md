@@ -2,6 +2,10 @@
 Why should we mitigate codes from Java to Kotlin? <br>
 Helping research related to An Empirical Study on Quality of Android Applications written in Kotlin language.
 
+![screenshot339785535](https://user-images.githubusercontent.com/27774870/75983478-f95bd900-5f2b-11ea-92b8-a04c358101b9.png) <br>
+You can check more details [here](https://arxiv.org/abs/1808.00025) by Bruno Gois Mateus, Matias Martinez professor in France.
+
+
 ## 1. Functional programming
 
 Functions in Kotlin are first-class values. It means they can be assigned to variables and passed around as parameters. <br>
