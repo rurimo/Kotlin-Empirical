@@ -1,5 +1,5 @@
 # Why-Kotlin
-Why should we mitigate codes from Java to Kotlin? <br>
+Why should we migrate codes from Java to Kotlin? <br>
 Helping research related to An Empirical Study on Quality of Android Applications written in Kotlin language.
 
 ![screenshot339785535](https://user-images.githubusercontent.com/27774870/75983478-f95bd900-5f2b-11ea-92b8-a04c358101b9.png) <br>
